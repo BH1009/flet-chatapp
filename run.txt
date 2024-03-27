@@ -1,0 +1,1 @@
+flet run -v main.py -p 54281 -w
